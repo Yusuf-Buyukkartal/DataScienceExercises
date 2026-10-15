@@ -1,2 +1,2 @@
 # DataScienceExercises
-Exploratory data analysis and demand forecasting practice using Python.
+Exploratory data analysis and some forecasting practice using Python.
